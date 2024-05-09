@@ -1,3 +1,6 @@
+<!-- Autor: Daniel Benjamin Perez Morales -->
+<!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
+<!-- Correo electrónico: danielperezdev@proton.me  -->
 **Seguridad en RRSS**
 
 ***Indice***
@@ -18,4 +21,3 @@
 
 > [!CAUTION]
 > *Tener cuidado con lo que se publicamos y buscamos en nuestras redes la red social que mas privacidad ofrece es **Twitter***
-

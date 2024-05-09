@@ -1,22 +1,25 @@
-# ***Protección en la Red***
+<!-- Autor: Daniel Benjamin Perez Morales -->
+<!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
+<!-- Correo electrónico: danielperezdev@proton.me  -->
+# **Network Security**
 
-> *Este repositorio contiene recursos y ejemplos relacionados con la protección en la red, incluyendo información sobre seguridad informática, privacidad en línea y mejores prácticas para protegerse en el entorno digital.*
+> *This repository contains resources and examples related to network security, including information on cybersecurity, online privacy, and best practices for protecting oneself in the digital environment.*
 
-## **Contenido del Repositorio**
+## **Repository Contents**
 
-**El repositorio está organizado de la siguiente manera:**
+**The repository is organized as follows:**
 
-- **Artículos:** *Directorios que contiene artículos y documentos sobre seguridad en la red.*
+- **Articles:** *Directories containing articles and documents on network security.*
 
-- **Ejemplos:** *Directorios que contiene ejemplos de código y configuraciones relacionadas con la protección en la red.*
+- **Examples:** *Directories containing code examples and configurations related to network security.*
 
-- **Recursos:** *Directorios que contiene enlaces a recursos externos útiles, como sitios web, blogs y videos, relacionados con la seguridad informática y la privacidad en línea.*
+- **Resources:** *Directories containing links to useful external resources, such as websites, blogs, and videos, related to cybersecurity and online privacy.*
 
-## **Temas Cubiertos**
+## **Covered Topics**
 
-*Algunos de los temas cubiertos en este repositorio incluyen:*
+*Some of the topics covered in this repository include:*
 
-- *Seguridad de la red y de los sistemas informáticos.*
-- *Protección de datos personales y privacidad en línea.*
-- *Herramientas y técnicas para detectar y prevenir ataques cibernéticos.*
-- *Consejos y mejores prácticas para protegerse mientras se navega por Internet.*
+- *Network and computer system security.*
+- *Protection of personal data and online privacy.*
+- *Tools and techniques for detecting and preventing cyber attacks.*
+- *Tips and best practices for protecting oneself while browsing the Internet.*

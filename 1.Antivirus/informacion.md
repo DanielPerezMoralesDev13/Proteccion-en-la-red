@@ -1,4 +1,7 @@
-# *Modulo de antivirus*
+<!-- Autor: Daniel Benjamin Perez Morales -->
+<!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
+<!-- Correo electrónico: danielperezdev@proton.me  -->
+# ***Modulo de antivirus***
 
 *`Url de las paginas web que utilize en este modulo`*
 
@@ -20,11 +23,12 @@
 > *La pagina de Hybrid Analytics cuando hace un escaneo de los archivos que subamos, luego de hacer el analisis el documento lo hace publico asi que no subamos archivos confidenciales por que si no se puede filtrar informacion personal*
 
 ---
-# ***Firewall***
 
-#### *Un firewall, en español "cortafuegos", es un componente de seguridad informática que se utiliza para monitorear y controlar el tráfico de red, permitiendo o bloqueando la comunicación según un conjunto de reglas predefinidas. Su objetivo principal es proteger una red o un sistema informático de amenazas externas, como accesos no autorizados, malware y otros tipos de ataques.*
+## ***Firewall***
 
-#### *Existen firewalls tanto a nivel de hardware como a nivel de software, y a menudo se utilizan en combinación para proporcionar una seguridad más completa. Los firewalls pueden operar en diferentes capas del modelo OSI (modelo de interconexión de sistemas abiertos) y pueden implementarse en dispositivos como routers, switches, servidores y computadoras personales.*
+*Un firewall, en español "cortafuegos", es un componente de seguridad informática que se utiliza para monitorear y controlar el tráfico de red, permitiendo o bloqueando la comunicación según un conjunto de reglas predefinidas. Su objetivo principal es proteger una red o un sistema informático de amenazas externas, como accesos no autorizados, malware y otros tipos de ataques.*
+
+*Existen firewalls tanto a nivel de hardware como a nivel de software, y a menudo se utilizan en combinación para proporcionar una seguridad más completa. Los firewalls pueden operar en diferentes capas del modelo OSI (modelo de interconexión de sistemas abiertos) y pueden implementarse en dispositivos como routers, switches, servidores y computadoras personales.*
 
 > **Las funciones principales de un firewall incluyen:**
 
@@ -58,10 +62,14 @@
 
 2. [***Configurar Firewall Windows***](#configurar-firewall-windows)
 
-# **Configurar-Firewall-Windows**
+## ***Configurar-Firewall-Windows***
 
-##### *Busca <kbd>*Firewall*</kbd> en la barra de busqueda de Windows luego ve a configuraciones avanzadas luego selecciones reglas de salida, crear nueva regla, darle click ala opcion del programa luego dar la ruta absoluta del programa que queremos configurar con el firewall luego segun lo que queramos hacer con el programa podemos bloquear la conexion y permitir la conexion luego configuramos para que el firewall aplique sobre esto 3 aspectos que son: Dominio, Privado, Publico, luego de eso ponerle un nombre ala regla y una breve descripcion y listo. Podemos activar y desactivar la regla cuando queramos*
+*Busca <kbd>*Firewall*</kbd> en la barra de busqueda de Windows luego ve a configuraciones avanzadas luego selecciones reglas de salida, crear nueva regla, darle click ala opcion del programa luego dar la ruta absoluta del programa que queremos configurar con el firewall luego segun lo que queramos hacer con el programa podemos bloquear la conexion y permitir la conexion luego configuramos para que el firewall aplique sobre esto 3 aspectos que son: Dominio, Privado, Publico, luego de eso ponerle un nombre ala regla y una breve descripcion y listo. Podemos activar y desactivar la regla cuando queramos*
+
 ---
+
+## ***Comando Powershell***
+
 > **Comando PowerShell:** *Set-MpPreference -DisableRemovableDriveScanning 0*
 
-##### *El comando PowerShell "Set-MpPreference -DisableRemovableDriveScanning 0" se utiliza para habilitar el escaneo de unidades extraíbles en Windows Defender. Al establecer el valor en "0", se permite que Windows Defender escanee dispositivos de almacenamiento extraíbles como unidades flash USB, discos duros externos y tarjetas de memoria SD en busca de posibles amenazas de seguridad. Si se establece en "1", se deshabilita el escaneo de unidades extraíbles.*
+*El comando PowerShell "Set-MpPreference -DisableRemovableDriveScanning 0" se utiliza para habilitar el escaneo de unidades extraíbles en Windows Defender. Al establecer el valor en "0", se permite que Windows Defender escanee dispositivos de almacenamiento extraíbles como unidades flash USB, discos duros externos y tarjetas de memoria SD en busca de posibles amenazas de seguridad. Si se establece en "1", se deshabilita el escaneo de unidades extraíbles.*

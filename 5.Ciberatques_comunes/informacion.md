@@ -1,3 +1,6 @@
+<!-- Autor: Daniel Benjamin Perez Morales -->
+<!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
+<!-- Correo electrónico: danielperezdev@proton.me  -->
 **_Ciberataques mas comunes_**
 
 **Indice**
@@ -83,7 +86,7 @@
 
 1. **Intercepción de Tráfico:**
 
-> _El atacante intercepta el tráfico de datos entre dos partes que están intentando comunicarse. Esto puede hacerse de varias maneras, como mediante el acceso no autorizado a una red, la utilización de software malicioso o la manipulación de la configuración de red._
+   > _El atacante intercepta el tráfico de datos entre dos partes que están intentando comunicarse. Esto puede hacerse de varias maneras, como mediante el acceso no autorizado a una red, la utilización de software malicioso o la manipulación de la configuración de red._
 
 2. **Reenvío de Tráfico:**
 
