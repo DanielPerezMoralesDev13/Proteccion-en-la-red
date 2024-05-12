@@ -48,6 +48,7 @@
     > *Argon2 es otro algoritmo diseñado específicamente para el almacenamiento seguro de contraseñas. Es el algoritmo ganador del concurso Password Hashing Competition (PHC) y está diseñado para ser resistente a una amplia variedad de ataques, incluidos los ataques de fuerza bruta y los ataques de tiempo de memoria.*
 
 ![**HASH**](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ionos.mx%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Fesquema-de-la-funcion-hash.png&f=1&nofb=1&ipt=46f2ea3475dc080d4bbed64f0ff98411cad30729187f1b4cfeae157f6bed7196&ipo=images "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ionos.mx%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Fesquema-de-la-funcion-hash.png&f=1&nofb=1&ipt=46f2ea3475dc080d4bbed64f0ff98411cad30729187f1b4cfeae157f6bed7196&ipo=images")
+
 ---
 
 ### *Existen aplicaciones de escritorio y extension del navegador que nos pueden a ayudar a gestionar nuestras contraseñas*

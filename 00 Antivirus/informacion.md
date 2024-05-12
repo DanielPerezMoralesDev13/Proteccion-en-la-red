@@ -46,15 +46,21 @@
 
 1. ***Permisos permisivos:***
 
-   1. *Los permisos permisivos se refieren a la configuración de un firewall que permite el tráfico por defecto, a menos que esté específicamente prohibido por las reglas establecidas.
-    En un enfoque permisivo, el firewall permite que todos los datos atraviesen a menos que se detecte una amenaza o una violación de las reglas establecidas.
-    Este enfoque puede ser más flexible, pero también puede ser menos seguro si no se configura adecuadamente, ya que cualquier tráfico no autorizado podría pasar desapercibido.*
+   - *Los permisos permisivos se refieren a la configuración de un firewall que permite el tráfico por defecto, a menos que esté específicamente prohibido por las reglas establecidas.*
+
+   - *En un enfoque permisivo, el firewall permite que todos los datos atraviesen a menos que se detecte una amenaza o una violación de las reglas establecidas.*
+
+   - *Este enfoque puede ser más flexible, pero también puede ser menos seguro si no se configura adecuadamente, ya que cualquier tráfico no autorizado podría pasar desapercibido.*
 
 2. ***Política de "drop":***
-   1. *La política de "drop" es un enfoque más restrictivo en el que el firewall bloquea todo el tráfico por defecto, a menos que esté específicamente permitido por las reglas.
-    En este caso, se deniega el acceso a menos que se haya establecido una regla explícita que permita el tráfico desde una fuente específica hacia un destino específico.
-    Este enfoque es más seguro por naturaleza, ya que adopta un enfoque más restrictivo y requiere una configuración explícita para permitir el tráfico.
-    La elección entre un enfoque permisivo y una política de "drop" depende de los requisitos de seguridad y las necesidades específicas de la red o del sistema. En entornos donde la seguridad es la máxima prioridad, la política de "drop" suele ser preferida, ya que sigue el principio de permitir solo lo que es necesario y bloquear todo lo demás.*
+
+   - *La política de "drop" es un enfoque más restrictivo en el que el firewall bloquea todo el tráfico por defecto, a menos que esté específicamente permitido por las reglas.*
+  
+   - *En este caso, se deniega el acceso a menos que se haya establecido una regla explícita que permita el tráfico desde una fuente específica hacia un destino específico.*
+
+   - *Este enfoque es más seguro por naturaleza, ya que adopta un enfoque más restrictivo y requiere una configuración explícita para permitir el tráfico.*
+
+   - *La elección entre un enfoque permisivo y una política de "drop" depende de los requisitos de seguridad y las necesidades específicas de la red o del sistema. En entornos donde la seguridad es la máxima prioridad, la política de "drop" suele ser preferida, ya que sigue el principio de permitir solo lo que es necesario y bloquear todo lo demás.*
 
 ## ***Configurar el programador de tareas para hacer un escaneo del dispositivo en windows***
 
@@ -64,7 +70,7 @@
 
 ## ***Configurar-Firewall-Windows***
 
-*Busca <kbd>*Firewall*</kbd> en la barra de busqueda de Windows luego ve a configuraciones avanzadas luego selecciones reglas de salida, crear nueva regla, darle click ala opcion del programa luego dar la ruta absoluta del programa que queremos configurar con el firewall luego segun lo que queramos hacer con el programa podemos bloquear la conexion y permitir la conexion luego configuramos para que el firewall aplique sobre esto 3 aspectos que son: Dominio, Privado, Publico, luego de eso ponerle un nombre ala regla y una breve descripcion y listo. Podemos activar y desactivar la regla cuando queramos*
+*Busca <kbd>**Firewall**</kbd> en la barra de busqueda de Windows luego ve a configuraciones avanzadas luego selecciones reglas de salida, crear nueva regla, darle click ala opcion del programa luego dar la ruta absoluta del programa que queremos configurar con el firewall luego segun lo que queramos hacer con el programa podemos bloquear la conexion y permitir la conexion luego configuramos para que el firewall aplique sobre esto 3 aspectos que son: Dominio, Privado, Publico, luego de eso ponerle un nombre ala regla y una breve descripcion y listo. Podemos activar y desactivar la regla cuando queramos*
 
 ---
 
