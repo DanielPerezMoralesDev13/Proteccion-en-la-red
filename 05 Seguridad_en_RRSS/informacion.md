@@ -1,12 +1,13 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-**Seguridad en RRSS**
+# ***Seguridad en RRSS***
 
-***Indice***
-
+- [***Seguridad en RRSS***](#seguridad-en-rrss)
 - [***OSINT, que significa Open Source Intelligence (Inteligencia de Fuentes Abiertas)***](#osint-que-significa-open-source-intelligence-inteligencia-de-fuentes-abiertas)
 - [***RRSS configuraciones seguras***](#rrss-configuraciones-seguras)
+
+---
 
 # ***OSINT, que significa Open Source Intelligence (Inteligencia de Fuentes Abiertas)***
 
