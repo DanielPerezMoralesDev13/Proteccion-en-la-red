@@ -444,14 +444,20 @@ cd testssl.sh/
 
        7. **Protección contra Ataques Man-in-the-Middle (MitM)**
           1. *El proceso de handshake ayuda a proteger contra ataques de Man-in-the-Middle, ya que un atacante no puede fácilmente falsificar la autenticación de los nodos sin conocer las claves privadas asociadas.*
+
        8. **Renegociación de Claves**
           1. *A lo largo de la duración de la conexión, los nodos pueden renegociar las claves de sesión para mejorar la seguridad y la resistencia contra amenazas.*
 
    3. **Cifrado de Extremo a Extremo**
+
        1. *Los datos transmitidos a través de la red Tor están cifrados de extremo a extremo entre los nodos que forman parte de un circuito.*
+
        2. *Cada nodo solo puede descifrar la capa de cifrado que le corresponde, manteniendo así la confidencialidad del tráfico.*
+
    4. **Control de Flujo de Datos**
+
       1. *El protocolo Tor incluye mecanismos para controlar el flujo de datos y gestionar la congestión en la red.*
+
       2. *Se implementan técnicas para evitar ataques de denegación de servicio y garantizar un funcionamiento eficiente.*
 
 4. **Enrutamiento Aleatorio:**
@@ -482,28 +488,28 @@ cd testssl.sh/
 
 # ***Instalacion de TOR Browser***
 
-Descargar TOR desde [Pagina de TOR](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/es/thank-you/ "http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/es/thank-you/")
-luego de eso seguir los siguientes comandos
+*Descargar TOR desde* [**Pagina de TOR**](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/es/thank-you/ "http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/es/thank-you/")
+*luego de eso seguir los siguientes comandos*
 
-1. ```bash
-   cd Descargas/
-   ```
+```bash
+cd Descargas/
+```
 
-2. ```bash
-   ls
-   ```
+```bash
+ls
+```
 
-3. ```bash
-   tar -xf tor-browser-linux-x86_64-13.0.8.tar.xz
-   ```
+```bash
+tar -xf tor-browser-linux-x86_64-13.0.8.tar.xz
+```
 
-4. ```bash
-   cd tor-browser/
-   ```
+```bash
+cd tor-browser/
+```
 
-5. ```bash
-   ./start-tor-browser.desktop
-   ```
+```bash
+./start-tor-browser.desktop
+```
 
 ***Esta comando sirve para instalar TOR***
 
