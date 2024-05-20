@@ -23,3 +23,11 @@
 - *Protección de datos personales y privacidad en línea.*
 - *Herramientas y técnicas para detectar y prevenir ataques cibernéticos.*
 - *Consejos y mejores prácticas para protegerse mientras se navega por Internet.*
+
+## **Contribuciones**
+
+> ¡Se aceptan contribuciones! Si tienes sugerencias, correcciones o deseas agregar contenido adicional a este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción. Tu ayuda es fundamental para hacer de este proyecto una referencia completa y actualizada para la comunidad de desarrollo.
+
+## **Licencia**
+
+> Este repositorio se publica bajo la Licencia MIT. Siéntete libre de utilizar, modificar y distribuir el contenido de acuerdo con los términos de esta licencia.
