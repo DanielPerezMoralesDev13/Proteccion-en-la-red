@@ -23,3 +23,11 @@
 - *Protection of personal data and online privacy.*
 - *Tools and techniques for detecting and preventing cyber attacks.*
 - *Tips and best practices for protecting oneself while browsing the Internet.*
+
+## **Contributions**
+
+> Contributions are welcome! If you have suggestions, corrections, or wish to add additional content to this project, feel free to open an issue or submit a pull request. Your help is essential in making this project a comprehensive and up-to-date reference for the development community.
+
+## **License**
+
+> This repository is published under the MIT License. Feel free to use, modify, and distribute the content according to the terms of this license.
