@@ -80,7 +80,7 @@
 3. *Comando para instalar sslscan*
 
     ```bash
-    sudo apt-get install sslscan
+    sudo apt-get install -y sslscan
     ```
 
 4. *Comprobamos la version*
@@ -514,7 +514,7 @@ cd tor-browser/
 ***Esta comando sirve para instalar TOR***
 
 ```bash
-sudo apt-get install tor torbrowser-launcher
+sudo apt-get install -y tor torbrowser-launcher
 ```
 
 ---

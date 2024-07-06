@@ -75,7 +75,7 @@
 2. ***Instala KeePassXC:***
 
     1. ```bash
-        sudo apt-get install keepassxc
+        sudo apt-get install -y keepassxc
         ```
 
         *Confirma la instalación: Se te pedirá que ingreses tu contraseña de administrador para confirmar la instalación.*
