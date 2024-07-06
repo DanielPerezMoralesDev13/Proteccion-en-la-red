@@ -1,6 +1,6 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
 # ***Protección en la Red***
 
 > *Este repositorio contiene recursos y ejemplos relacionados con la protección en la red, incluyendo información sobre seguridad informática, privacidad en línea y mejores prácticas para protegerse en el entorno digital.*

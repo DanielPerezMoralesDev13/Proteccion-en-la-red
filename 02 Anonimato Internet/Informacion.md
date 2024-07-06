@@ -1,6 +1,7 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
+
 # ***Anonimato en la red***
 
 - [***Anonimato en la red***](#anonimato-en-la-red)
@@ -24,7 +25,7 @@
 
 > *Los correos temporales, también conocidos como correos desechables o temporales, son direcciones de correo electrónico que se crean para un solo uso y luego se eliminan automáticamente. Se utilizan a menudo para registrarse en sitios web o servicios que no requieren una dirección de correo electrónico permanente, o para proteger la privacidad al evitar que los correos electrónicos personales sean rastreados o recogidos por terceros.*
 
-**Paginas web que brindan este servicio**
+**Paginas web que brindan este servicio:**
 
 - [*temp-mail.io*](https://temp-mail.io/en "https://temp-mail.io/en")
 - [*temp-mail.org*](https://temp-mail.org/en/ "https://temp-mail.org/en/")
@@ -48,11 +49,11 @@
 ---
 > **Puertos de HTTP y HTTPS:** *HTTP y HTTPS utilizan diferentes puertos por defecto. HTTP utiliza el puerto 80, mientras que HTTPS utiliza el puerto 443. Estos son los puertos predeterminados, pero se pueden configurar para usar otros puertos si es necesario.*
 
-![**Img**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS1.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS1.png?raw=true")
+*![Img](../Images/Img%20HTTP%20VS%20HTTPS/00%20HTTP%20VS%20HTTPS.png "../Images/Img HTTP VS HTTPS/00 HTTP VS HTTPS.png")*
 
-![**Img dos**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS2.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS2.png?raw=true")
+*![Img dos](../Images/Img%20HTTP%20VS%20HTTPS/01%20HTTP%20VS%20HTTPS.png "../Images/Img HTTP VS HTTPS/01 HTTP VS HTTPS.png")*
 
-![**Img tres**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS3.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS3.png?raw=true")
+*![Img tres](../Images/Img%20HTTP%20VS%20HTTPS/02%20HTTP%20VS%20HTTPS.png "../Images/Img HTTP VS HTTPS/02 HTTP VS HTTPS.png")*
 
 **`SSL y TLS  a veces denominados «certificados digitales», se utilizan para establecer una conexión cifrada entre un navegador o el ordenador de un usuario y un servidor o un sitio web. Son protocolos de seguridad utilizados en la comunicación de red.`**
 
@@ -68,7 +69,7 @@
 
 # ***Para instalar Sslscan en Ubuntu***
 
-1. *Abrimos la terminal con <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>t</kbd>*
+1. *Abrimos la terminal con `<kbd>` Ctrl `</kbd>`  + `<kbd>` Alt `</kbd>`  + `<kbd>` t `</kbd>`*
 
 2. *Actualizamos los paquetes*
 
@@ -115,49 +116,49 @@ cd testssl.sh/
 
 # ***Configuraciones segura para navegador Firefox***
 
-![**Configuracion Firefox img #1**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox1.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox1.png?raw=true")
+*![Configuracion Firefox img #1](../Images/Img%20Firefox/00%20Configuracion%20Firefox.png "../Images/Img Firefox/00 Configuracion Firefox.png")*
 
-![**Configuracion Firefox img #2**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox2.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox2.png?raw=true")
+*![Configuracion Firefox img #2](../Images/Img%20Firefox/01%20Configuracion%20Firefox.png "../Images/Img Firefox/01 Configuracion Firefox.png")*
 
-![**Configuracion Firefox img #3**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox3.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox3.png?raw=true")
+*![Configuracion Firefox img #3](../Images/Img%20Firefox/02%20Configuracion%20Firefox.png "../Images/Img Firefox/02 Configuracion Firefox.png")*
 
-![**Configuracion Firefox img #4**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox4.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox4.png?raw=true")
+*![Configuracion Firefox img #4](../Images/Img%20Firefox/03%20Configuracion%20Firefox.png "../Images/Img Firefox/03 Configuracion Firefox.png")*
 
-![**Configuracion Firefox img #5**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox5.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox5.png?raw=true")
+*![Configuracion Firefox img #5](../Images/Img%20Firefox/04%20Configuracion%20Firefox.png "../Images/Img Firefox/04 Configuracion Firefox.png")*
 
-![**Configuracion Firefox img #6**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox6.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox6.png?raw=true")
+*![Configuracion Firefox img #6](../Images/Img%20Firefox/05%20Configuracion%20Firefox.png "../Images/Img Firefox/05 Configuracion Firefox.png")*
 
-![**Configuracion Firefox img #7**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox7.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox7.png?raw=true")
+*![Configuracion Firefox img #7](../Images/Img%20Firefox/06%20Configuracion%20Firefox.png "../Images/Img Firefox/06 Configuracion Firefox.png")*
 
-![**Configuracion Firefox img #8**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox8.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Firefox/configuracion%20firefox8.png?raw=true")
+*![Configuracion Firefox img #8](../Images/Img%20Firefox/07%20Configuracion%20Firefox.png "../Images/Img Firefox/07 Configuracion Firefox.png")*
 
 ---
 
 # ***Configuraciones segura para navegador Chrome***
 
-![**Configuracion Chrome img #1**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome1.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome1.png?raw=true")
+*![Configuracion Chrome img #1](../Images/Img%20Chrome/00%20Configuracion%20Chrome.png "../Images/Img Chrome/00 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #2**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome2.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome2.png?raw=true")
+*![Configuracion Chrome img #2](../Images/Img%20Chrome/01%20Configuracion%20Chrome.png "../Images/Img Chrome/01 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #3**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome3.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome3.png?raw=true")
+*![Configuracion Chrome img #3](../Images/Img%20Chrome/02%20Configuracion%20Chrome.png "../Images/Img Chrome/02 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #4**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome4.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome4.png?raw=true")
+*![Configuracion Chrome img #4](../Images/Img%20Chrome/03%20Configuracion%20Chrome.png "../Images/Img Chrome/03 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #5**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome5.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome5.png?raw=true")
+*![Configuracion Chrome img #5](../Images/Img%20Chrome/04%20Configuracion%20Chrome.png "../Images/Img Chrome/04 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #6**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome6.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome6.png?raw=true")
+*![Configuracion Chrome img #6](../Images/Img%20Chrome/05%20Configuracion%20Chrome.png "../Images/Img Chrome/05 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #7**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome7.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome7.png?raw=true")
+*![Configuracion Chrome img #7](../Images/Img%20Chrome/06%20Configuracion%20Chrome.png "../Images/Img Chrome/06 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #8**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome8.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome8.png?raw=true")
+*![Configuracion Chrome img #8](../Images/Img%20Chrome/07%20Configuracion%20Chrome.png "../Images/Img Chrome/07 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #9**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome9.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome9.png?raw=true")
+*![Configuracion Chrome img #9](../Images/Img%20Chrome/08%20Configuracion%20Chrome.png "../Images/Img Chrome/08 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #10**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome10.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome10.png?raw=true")
+*![Configuracion Chrome img #10](../Images/Img%20Chrome/09%20Configuracion%20Chrome.png "../Images/Img Chrome/09 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #11**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome11.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome11.png?raw=true")
+*![Configuracion Chrome img #11](../Images/Img%20Chrome/10%20Configuracion%20Chrome.png "../Images/Img Chrome/10 Configuracion Chrome.png")*
 
-![**Configuracion Chrome img #12**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome12.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Chrome/Configuracion%20Chrome12.png?raw=true")
+*![Configuracion Chrome img #12](../Images/Img%20Chrome/11%20Configuracion%20Chrome.png "../Images/Img Chrome/11 Configuracion Chrome.png")*
 
 ---
 
@@ -179,13 +180,13 @@ cd testssl.sh/
 4. **Sin burbuja de filtro:**
    > *DuckDuckGo intenta evitar la "burbuja de filtro", que es la personalización extrema de los resultados basada en la información personal del usuario, permitiendo así una experiencia de búsqueda más diversa.*
 
-*En navegadores como brave el motor de busqueda <kbd>**DuckDuckgo**</kbd> esta instalado solo hay que configurarlo como motor de busqueda predeterminado*
+*En navegadores como brave el motor de busqueda `<kbd>` **DuckDuckgo** `</kbd>`  esta instalado solo hay que configurarlo como motor de busqueda predeterminado*
 
 - *En navegadores como Firefox o Chrome tenemos que instalar una extension*
 
-1. [<kbd>**DuckDuckgo Firefox extension**</kbd>](https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/ "https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/")
+1. *[DuckDuckgo Firefox extension](https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/ "https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/")*
 
-2. [<kbd>**DuckDuckgo Chrome extension**</kbd>](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg "https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg")
+2. *[DuckDuckgo Chrome extension](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg "https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg")*
 
 ---
 
@@ -193,33 +194,32 @@ cd testssl.sh/
 
 > *Extensiones para el navegador*
 
-![**Configuracion Brave img #1**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave1.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave1.png?raw=true")
+*![Configuracion Brave img #1](../Images/Img%20Brave/00%20Configuracion%20Brave.png "../Images/Img Brave/00 Configuracion Brave.png")*
 
-![**Configuracion Brave img #2**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave2.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave2.png?raw=true")
+*![Configuracion Brave img #2](../Images/Img%20Brave/01%20Configuracion%20Brave.png "../Images/Img Brave/01 Configuracion Brave.png")*
 
-![**Configuracion Brave img #3**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave3.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave3.png?raw=true")
+*![Configuracion Brave img #3](../Images/Img%20Brave/02%20Configuracion%20Brave.png "../Images/Img Brave/02 Configuracion Brave.png")*
 
-![**Configuracion Brave img #4**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave4.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave4.png?raw=true"
-)
+*![Configuracion Brave img #4](../Images/Img%20Brave/03%20Configuracion%20Brave.png "../Images/Img Brave/03 Configuracion Brave.png")*
 
-![**Configuracion Brave img #5**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave5.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave5.png?raw=true")
+*![Configuracion Brave img #5](../Images/Img%20Brave/04%20Configuracion%20Brave.png "../Images/Img Brave/04 Configuracion Brave.png")*
 
-![**Configuracion Brave img #6**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave6.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave6.png?raw=true")
+*![Configuracion Brave img #6](../Images/Img%20Brave/05%20Configuracion%20Brave.png "../Images/Img Brave/05 Configuracion Brave.png")*
 
-![**Configuracion Brave img #7**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave7.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave7.png?raw=true")
+*![Configuracion Brave img #7](../Images/Img%20Brave/06%20Configuracion%20Brave.png "../Images/Img Brave/06 Configuracion Brave.png")*
 
-![**Configuracion Brave img #8**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave8.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave8.png?raw=true")
+*![Configuracion Brave img #8](../Images/Img%20Brave/07%20Configuracion%20Brave.png "../Images/Img Brave/07 Configuracion Brave.png")*
 
-![**Configuracion Brave img #9**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave9.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave9.png?raw=true")
+*![Configuracion Brave img #9](../Images/Img%20Brave/08%20Configuracion%20Brave.png "../Images/Img Brave/08 Configuracion Brave.png")*
 
-![**Configuracion Brave img #10**](https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave10.png?raw=true "https://github.com/DanielPerezMoralesDev13/Proteccion-en-la-red/blob/master/Images/PNG/Img-Brave/Configuracion%20Brave10.png?raw=true")
+*![Configuracion Brave img #10](../Images/Img%20Brave/09%20Configuracion%20Brave.png "../Images/Img Brave/09 Configuracion Brave.png")*
 
-1. [Cookie editor Mozilla](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/ "https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/")
+1. *[Cookie editor Mozilla](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/ "https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/")*
 
-2. [Cookie editor Brave](https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg "https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg")
+2. *[Cookie editor Brave](https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg "https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg")*
 
 > [!TIP]
-> ***Las cookies pueden utilizarse para iniciar sesión en una página web. Esto se puede lograr de varias formas, una de ellas es mediante el uso de una extensión que importe y exporte cookies en formato JSON, permitiendo que la página acceda a los datos necesarios para el inicio de sesión.***
+> **Las cookies pueden utilizarse para iniciar sesión en una página web. Esto se puede lograr de varias formas, una de ellas es mediante el uso de una extensión que importe y exporte cookies en formato JSON, permitiendo que la página acceda a los datos necesarios para el inicio de sesión.**
 
 ---
 
@@ -243,11 +243,11 @@ cd testssl.sh/
 
 2. *Otra opcion seria visitar cualquiera de esta paginas ya que nos brindara nuestra ip publica*
 
-    1. [*IP publica pagina #1*](https://ip-lookup.live/ "https://ip-lookup.live/")
+    1. *[IP publica pagina #1](https://ip-lookup.live/ "https://ip-lookup.live/")*
 
-    2. [*IP publica pagina #2*](https://www.cual-es-mi-ip.net/ "https://www.cual-es-mi-ip.net/")
+    2. *[IP publica pagina #2](https://www.cual-es-mi-ip.net/ "https://www.cual-es-mi-ip.net/")*
 
-3. **En windows abrimos el cmd con <kbd>Windows</kbd>+<kbd>r</kbd> escribimos cmd**
+3. **En windows abrimos el cmd con `<kbd>` Windows `</kbd>` +`<kbd>` r `</kbd>`  escribimos cmd**
 
    ```cmd
    nslookup myip.opendns.com resolver1.opendns.com
@@ -299,7 +299,7 @@ cd testssl.sh/
    ip a show <enp0s3>
    ```
 
-3. **En windows abrimos el cmd con <kbd>Windows</kbd>+<kbd>r</kbd> escribimos cmd**
+3. **En windows abrimos el cmd con `<kbd>` Windows `</kbd>` +`<kbd>` r `</kbd>`  escribimos cmd**
 
     ```cmd
    ipconfig
@@ -307,11 +307,11 @@ cd testssl.sh/
 
 4. **Estructuras de las direcciones ip**
 
-|**Datos**| **IPV4** |**IPV6**|
-|:-------:|:------:|:---:|
-|**Bits**| *Utiliza direcciones de 32 bits* | utiliza direcciones de 128 bits|
-|**Rango de números**|*Va desde 0.0.0.0 hasta 255.255.255.255.*| *Dada la longitud de 128 bits, el rango es enormemente grande, proporcionando un número prácticamente ilimitado de direcciones únicas*|
-|**Significado de cada sección**| *Cada sección, separada por puntos, representa un octeto (8 bits) de la dirección. Por ejemplo, en la dirección "192.168.1.1", 192 es el primer octeto, 168 es el segundo, 1 es el tercer y 1 es el cuarto.*|*En lugar de puntos, IPv6 utiliza dos puntos para separar las secciones. Cada sección de 16 bits se representa en notación hexadecimal. Por ejemplo, una dirección IPv6 podría verse así: 2001:0db8:85a3:0000:0000:8a2e:0370:7334.*|
+| **Datos**                       | **IPV4**                                                                                                                                                                                                      | **IPV6**                                                                                                                                                                                                                            |
+|:-------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Bits**                        | *Utiliza direcciones de 32 bits*                                                                                                                                                                              | *Utiliza direcciones de 128 bits*                                                                                                                                                                                                   |
+| **Rango de números**            | *Va desde 0.0.0.0 hasta 255.255.255.255.*                                                                                                                                                                     | *Dada la longitud de 128 bits, el rango es enormemente grande, proporcionando un número prácticamente ilimitado de direcciones únicas*                                                                                              |
+| **Significado de cada sección** | *Cada sección, separada por puntos, representa un octeto (8 bits) de la dirección. Por ejemplo, en la dirección "192.168.1.1", 192 es el primer octeto, 168 es el segundo, 1 es el tercer y 1 es el cuarto.*  | *En lugar de puntos, IPv6 utiliza dos puntos para separar las secciones. Cada sección de 16 bits se representa en notación hexadecimal. Por ejemplo, una dirección IPv6 podría verse así: 2001:0db8:85a3:0000:0000:8a2e:0370:7334.* |
 
 - **Datos sobre las direcciones IP**
 
@@ -488,7 +488,7 @@ cd testssl.sh/
 
 # ***Instalacion de TOR Browser***
 
-*Descargar TOR desde* [**Pagina de TOR**](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/es/thank-you/ "http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/es/thank-you/")
+*Descargar TOR desde* [Pagina de TOR](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/es/thank-you/ "http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/es/thank-you/")
 *luego de eso seguir los siguientes comandos*
 
 ```bash
@@ -525,23 +525,23 @@ sudo apt-get install tor torbrowser-launcher
 
 **Conceptos clave relacionados con las VPN:**
 
-1. ***Cifrado***
+1. **Cifrado**
 
    1. > *Las VPN utilizan protocolos de cifrado para proteger los datos que se transmiten a través de la red. Esto significa que incluso si alguien logra interceptar la información, no podrá entenderla sin la clave de descifrado.*
 
-2. ***Túneles***
+2. **Túneles**
 
    1. > *Una VPN establece un "túnel" seguro entre el dispositivo del usuario y el servidor VPN. Todo el tráfico de datos que fluye a través de este túnel está protegido por el cifrado, lo que hace que sea difícil para terceros acceder a la información transmitida.*
 
-3. ***Privacidad y Anonimato:***
+3. **Privacidad y Anonimato:**
 
    1. > *Al usar una VPN, la dirección IP del usuario se oculta y se reemplaza por la dirección IP del servidor VPN. Esto ayuda a preservar la privacidad del usuario y dificulta el rastreo de la actividad en línea hasta su ubicación real.*
 
-4. ***Evitar la Censura y Restricciones Geográficas:***
+4. **Evitar la Censura y Restricciones Geográficas:**
 
    1. > *Al cambiar la ubicación virtual a través de la conexión a un servidor VPN en otro país, los usuarios pueden eludir restricciones geográficas y acceder a contenido que de otra manera estaría bloqueado.*
 
-5. ***Tipos de VPN***
+5. **Tipos de VPN**
 
    1. **VPN de Acceso Remoto:**
 

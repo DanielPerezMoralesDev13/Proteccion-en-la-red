@@ -1,6 +1,7 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
+
 # ***Modulo de antivirus***
 
 *`Url de las paginas web que utilize en este modulo`*
@@ -20,7 +21,7 @@
 7. [***haveibeenpwned***](https://haveibeenpwned.com/ "https://haveibeenpwned.com/")
 
 > [!IMPORTANT]
-> *La pagina de Hybrid Analytics cuando hace un escaneo de los archivos que subamos, luego de hacer el analisis el documento lo hace publico asi que no subamos archivos confidenciales por que si no se puede filtrar informacion personal*
+> *La pagina de Hybrid Analytics cuando hace un escaneo de los ficheros que subamos, luego de hacer el analisis el documento lo hace publico asi que no subamos ficheros confidenciales por que si no se puede filtrar informacion personal*
 
 ---
 
@@ -70,12 +71,16 @@
 
 ## ***Configurar-Firewall-Windows***
 
-*Busca <kbd>**Firewall**</kbd> en la barra de busqueda de Windows luego ve a configuraciones avanzadas luego selecciones reglas de salida, crear nueva regla, darle click ala opcion del programa luego dar la ruta absoluta del programa que queremos configurar con el firewall luego segun lo que queramos hacer con el programa podemos bloquear la conexion y permitir la conexion luego configuramos para que el firewall aplique sobre esto 3 aspectos que son: Dominio, Privado, Publico, luego de eso ponerle un nombre ala regla y una breve descripcion y listo. Podemos activar y desactivar la regla cuando queramos*
+*Busca `<kbd>` **Firewall**`</kbd>`  en la barra de busqueda de Windows luego ve a configuraciones avanzadas luego selecciones reglas de salida, crear nueva regla, darle click ala opcion del programa luego dar la ruta absoluta del programa que queremos configurar con el firewall luego segun lo que queramos hacer con el programa podemos bloquear la conexion y permitir la conexion luego configuramos para que el firewall aplique sobre esto 3 aspectos que son: Dominio, Privado, Publico, luego de eso ponerle un nombre ala regla y una breve descripcion y listo. Podemos activar y desactivar la regla cuando queramos*
 
 ---
 
 ## ***Comando Powershell***
 
 > **Comando PowerShell:** *Set-MpPreference -DisableRemovableDriveScanning 0*
+
+```powershell
+Set-MpPreference -DisableRemovableDriveScanning 0
+```
 
 *El comando PowerShell "Set-MpPreference -DisableRemovableDriveScanning 0" se utiliza para habilitar el escaneo de unidades extraíbles en Windows Defender. Al establecer el valor en "0", se permite que Windows Defender escanee dispositivos de almacenamiento extraíbles como unidades flash USB, discos duros externos y tarjetas de memoria SD en busca de posibles amenazas de seguridad. Si se establece en "1", se deshabilita el escaneo de unidades extraíbles.*

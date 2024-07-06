@@ -1,6 +1,7 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
+
 # ***Contraseñas***
 
 > *Para crear una contraseña segura debemos seguir los siguientes pasos*
@@ -47,7 +48,7 @@
 
     > *Argon2 es otro algoritmo diseñado específicamente para el almacenamiento seguro de contraseñas. Es el algoritmo ganador del concurso Password Hashing Competition (PHC) y está diseñado para ser resistente a una amplia variedad de ataques, incluidos los ataques de fuerza bruta y los ataques de tiempo de memoria.*
 
-![**HASH**](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ionos.mx%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Fesquema-de-la-funcion-hash.png&f=1&nofb=1&ipt=46f2ea3475dc080d4bbed64f0ff98411cad30729187f1b4cfeae157f6bed7196&ipo=images "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ionos.mx%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Fesquema-de-la-funcion-hash.png&f=1&nofb=1&ipt=46f2ea3475dc080d4bbed64f0ff98411cad30729187f1b4cfeae157f6bed7196&ipo=images")
+*![HASH](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ionos.mx%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Fesquema-de-la-funcion-hash.png&f=1&nofb=1&ipt=46f2ea3475dc080d4bbed64f0ff98411cad30729187f1b4cfeae157f6bed7196&ipo=images "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ionos.mx%2Fdigitalguide%2Ffileadmin%2FDigitalGuide%2FSchaubilder%2Fesquema-de-la-funcion-hash.png&f=1&nofb=1&ipt=46f2ea3475dc080d4bbed64f0ff98411cad30729187f1b4cfeae157f6bed7196&ipo=images")*
 
 ---
 
@@ -65,7 +66,7 @@
 
 1. ***Abre la terminal:***
 
-   1. *Puedes abrir la terminal usando el atajo de teclado <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>. Actualiza la lista de paquetes:*
+   1. *Puedes abrir la terminal usando el atajo de teclado `<kbd>` Ctrl`</kbd>`  + `<kbd>` Alt`</kbd>`  + `<kbd>` T`</kbd>` . Actualiza la lista de paquetes:*
 
    ```bash
    sudo apt-get update
@@ -94,6 +95,6 @@
 *LastPass es un servicio de gestión de contraseñas lanzado en 2008 que ayuda a los usuarios a organizar y almacenar de manera segura sus contraseñas en línea. Ofrece funciones clave como el almacenamiento seguro de contraseñas con una única contraseña maestra, generador de contraseñas fuertes, autocompletado de formularios, y la capacidad de almacenar información adicional de forma segura. LastPass facilita la sincronización entre dispositivos, permitiendo a los usuarios acceder a sus datos desde diferentes plataformas. El servicio prioriza la seguridad mediante medidas como el cifrado de extremo a extremo.*
 
 > [!IMPORTANT]
-> Es una extension del navegador
+> *Es una extension del navegador*
 
-[LastPass](https://my.lastpass.com/create_account.php?fromloginpage=1 "https://my.lastpass.com/create_account.php?fromloginpage=1")
+*[LastPass](https://my.lastpass.com/create_account.php?fromloginpage=1 "https://my.lastpass.com/create_account.php?fromloginpage=1")*

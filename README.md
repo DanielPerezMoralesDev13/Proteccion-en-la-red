@@ -1,6 +1,7 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
+
 # **Network Security**
 
 > *This repository contains resources and examples related to network security, including information on cybersecurity, online privacy, and best practices for protecting oneself in the digital environment.*

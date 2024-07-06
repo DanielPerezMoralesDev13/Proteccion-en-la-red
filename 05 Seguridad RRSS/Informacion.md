@@ -1,6 +1,7 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
+
 # ***Seguridad en RRSS***
 
 - [***Seguridad en RRSS***](#seguridad-en-rrss)
@@ -11,7 +12,7 @@
 
 # ***OSINT, que significa Open Source Intelligence (Inteligencia de Fuentes Abiertas)***
 
-[**Articulo**](https://web.archive.org/web/20230528223408/https://orangeitcss.net/2021/04/19/que-es-osint-y-para-que-sirve/ "https://web.archive.org/web/20230528223408/https://orangeitcss.net/2021/04/19/que-es-osint-y-para-que-sirve/")
+*[Articulo](https://web.archive.org/web/20230528223408/https://orangeitcss.net/2021/04/19/que-es-osint-y-para-que-sirve/ "https://web.archive.org/web/20230528223408/https://orangeitcss.net/2021/04/19/que-es-osint-y-para-que-sirve/")*
 
 ---
 

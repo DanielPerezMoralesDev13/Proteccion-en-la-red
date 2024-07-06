@@ -1,6 +1,7 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
+
 # ***Ciberataques mas comunes***
 
 - [***Ciberataques mas comunes***](#ciberataques-mas-comunes)
@@ -115,29 +116,29 @@
 
 8. **Sniffing de Paquetes:**
 
-> El atacante puede utilizar herramientas de sniffing para capturar y analizar los paquetes de datos que pasan a través de la red.
+> *El atacante puede utilizar herramientas de sniffing para capturar y analizar los paquetes de datos que pasan a través de la red.*
 
 ---
 
 # ***Ransomware (Rescate software)***
 
-> *El ransomware es un tipo de software malicioso (malware) diseñado para cifrar archivos en el sistema de un usuario y luego exigir un pago (un "rescate") a cambio de proporcionar la clave de descifrado o desbloquear los archivos. En esencia, es un tipo de ataque cibernético que tiene como objetivo extorsionar a las víctimas.*
+> *El ransomware es un tipo de software malicioso (malware) diseñado para cifrar ficheros en el sistema de un usuario y luego exigir un pago (un "rescate") a cambio de proporcionar la clave de descifrado o desbloquear los ficheros. En esencia, es un tipo de ataque cibernético que tiene como objetivo extorsionar a las víctimas.*
 
 1. **Cifrado de Archivos:**
 
-   > *El ransomware cifra archivos en la computadora de la víctima, utilizando algoritmos de cifrado fuertes. Los archivos se vuelven inaccesibles para el usuario sin la clave de descifrado correspondiente.*
+   > *El ransomware cifra ficheros en la computadora de la víctima, utilizando algoritmos de cifrado fuertes. Los ficheros se vuelven inaccesibles para el usuario sin la clave de descifrado correspondiente.*
 
 2. **Mensaje de Rescate:**
 
-   > *Después de cifrar los archivos, el ransomware generalmente muestra un mensaje de rescate en la pantalla de la víctima. Este mensaje contiene instrucciones sobre cómo realizar el pago y obtener la clave de descifrado.*
+   > *Después de cifrar los ficheros, el ransomware generalmente muestra un mensaje de rescate en la pantalla de la víctima. Este mensaje contiene instrucciones sobre cómo realizar el pago y obtener la clave de descifrado.*
 
 3. **Extorsión:**
 
-   > *Los atacantes exigen un pago generalmente en criptomonedas, como Bitcoin, ya que estas transacciones son más difíciles de rastrear. El pago suele ser la única forma de recuperar los archivos.*
+   > *Los atacantes exigen un pago generalmente en criptomonedas, como Bitcoin, ya que estas transacciones son más difíciles de rastrear. El pago suele ser la única forma de recuperar los ficheros.*
 
 4. **Métodos de Distribución:**
 
-> *El ransomware se propaga a menudo a través de correos electrónicos de phishing, descargas de archivos maliciosos, sitios web comprometidos o mediante la explotación de vulnerabilidades en sistemas no actualizados.*
+> *El ransomware se propaga a menudo a través de correos electrónicos de phishing, descargas de ficheros maliciosos, sitios web comprometidos o mediante la explotación de vulnerabilidades en sistemas no actualizados.*
 
 ---
 
@@ -301,4 +302,4 @@ SELECT * FROM usuarios WHERE nombre_usuario = '' OR '1'='1'; --' AND contraseña
 
 # ***Top Ciberataques de la historia***
 
-> *[*Artículo Deloitte*](https://www2.deloitte.com/es/es/pages/risk/articles/los-cinco-mayores-ciberataques-de-la-historia.html "https://www2.deloitte.com/es/es/pages/risk/articles/los-cinco-mayores-ciberataques-de-la-historia.html").*
+> *[Artículo Deloitte](https://www2.deloitte.com/es/es/pages/risk/articles/los-cinco-mayores-ciberataques-de-la-historia.html "https://www2.deloitte.com/es/es/pages/risk/articles/los-cinco-mayores-ciberataques-de-la-historia.html").*
