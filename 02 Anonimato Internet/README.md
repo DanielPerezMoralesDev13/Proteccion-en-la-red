@@ -43,10 +43,15 @@
 
 # ***HTTP-HTTPS***
 
+> [!NOTE]
 > **HTTP:** *significa Protocolo de Transferencia de Hipertexto (Hypertext Transfer Protocol en inglés). Es el protocolo de comunicación que permite las transferencias de información en la web. HTTP define cómo se transmiten los mensajes a través de la web y qué acciones pueden tomar los navegadores web y los servidores web al hacer una solicitud o dar una respuesta. Por ejemplo, cuando escribes una URL en tu navegador, en realidad estás enviando una solicitud HTTP al servidor donde se encuentra la página web. El servidor responde con el contenido de la página. Es importante notar que HTTP no es seguro, ya que los datos se transmiten en texto plano, lo que significa que si alguien intercepta la comunicación, puede leer la información. Para solucionar este problema, se utiliza HTTPS (HTTP Seguro), que cifra los datos transmitidos.*
 ---
+
+> [!NOTE]
 > **HTTPS:** *significa Protocolo seguro de transferencia de hipertexto (Hypertext Transfer Protocol Secure en inglés). Es la versión segura de HTTP. HTTPS utiliza un protocolo de seguridad llamado SSL/TLS para cifrar la información que se envía entre el cliente (por ejemplo, tu navegador) y el servidor. Esto significa que incluso si alguien intercepta los datos que se están transmitiendo, no podrá leerlos porque están cifrados. El uso de HTTPS es especialmente importante cuando se transmiten datos sensibles, como contraseñas o información de tarjetas de crédito.*
 ---
+
+> [!NOTE]
 > **Puertos de HTTP y HTTPS:** *HTTP y HTTPS utilizan diferentes puertos por defecto. HTTP utiliza el puerto 80, mientras que HTTPS utiliza el puerto 443. Estos son los puertos predeterminados, pero se pueden configurar para usar otros puertos si es necesario.*
 
 *![Img](../Images/Img%20HTTP%20VS%20HTTPS/00%20HTTP%20VS%20HTTPS.png "../Images/Img HTTP VS HTTPS/00 HTTP VS HTTPS.png")*
@@ -61,10 +66,12 @@
 
 ---
 
+> [!NOTE]
 > **TLS:** *Significa Transport Layer Security (Seguridad de la capa de transporte). TLS es una versión actualizada y más segura de SSL. Es un protocolo que proporciona privacidad y seguridad de datos entre dos aplicaciones que se comunican a través de una red. TLS es el sucesor de Secure Sockets Layer (SSL). Se utiliza comúnmente para proteger las comunicaciones web (HTTP/HTTPS), el correo electrónico (SMTP), la mensajería instantánea (IM) y algunas VPNs.*
 
 # ***Herramientas SSLSCAN y TESTSSL.SH***
 
+> [!NOTE]
 > *SSLScan es una herramienta de código abierto diseñada para analizar la configuración de seguridad de servidores que utilizan el protocolo SSL/TLS. Esta herramienta escanea un servidor en busca de configuraciones débiles o vulnerabilidades relacionadas con SSL/TLS. Proporciona información detallada sobre la suite de cifrado utilizada, versiones de protocolos SSL/TLS admitidas, configuraciones de cifrado débiles y posibles amenazas a la seguridad. SSLScan se utiliza comúnmente para evaluar la seguridad de servidores web y asegurarse de que estén configurados de manera segura para proteger la comunicación en línea. Al analizar la configuración SSL/TLS de un servidor, los administradores pueden identificar y corregir posibles vulnerabilidades antes de que sean explotadas por posibles atacantes.*
 
 # ***Para instalar Sslscan en Ubuntu***
@@ -101,7 +108,7 @@
 # ***Segunda Herrmienta para el analizis de paginas web para usar este herramienta tendremos que descargarnos el repositorio de github***
 
 ```bash
-git clone git@github.com:drwetter/testssl.sh.git
+git clone git@github.com:drwetter/testssl.sh.git --depth=1 --verbose
 ```
 
 ```bash
@@ -225,6 +232,7 @@ cd testssl.sh/
 
 # ***IP-Publica***
 
+> [!NOTE]
 > **Dirección IP Pública:** *La dirección IP pública es la dirección única asignada a tu red desde el proveedor de servicios de Internet (ISP). Es la dirección que se utiliza para identificar tu red en Internet. Todas las dispositivos conectados a Internet desde tu red doméstica compartirán la misma dirección IP pública. Esta dirección es necesaria para que los dispositivos se comuniquen con otros dispositivos en Internet. Puedes obtener tu dirección IP pública utilizando servicios en línea o comandos específicos en la terminal.*
 
 1. *Puedes utilizar servicios en línea para obtener tu IP pública. Uno de los servicios comunes es curl para obtener la IP desde un sitio web comando en **Ubuntu es:***
@@ -257,6 +265,7 @@ cd testssl.sh/
 
 # ***IP-Privada***
 
+> [!NOTE]
 > **Dirección IP Privada:** *La dirección IP privada es la dirección asignada a un dispositivo dentro de una red local (como tu red doméstica o de oficina). Está diseñada para ser única dentro de esa red local. Puedes tener múltiples dispositivos con la misma dirección IP privada en diferentes redes locales, ya que no son únicas en todo Internet. Los routers en la red local asignan direcciones IP privadas a los dispositivos conectados. Las direcciones IP privadas están reservadas y definidas en los rangos específicos, como 192.168.x.x, 10.x.x.x, etc.*
 
 1. *Comandos para obtener las ip privadas de nuestra red en ubuntu cualquiera de las dos podemos usar*
@@ -319,12 +328,13 @@ cd testssl.sh/
 
 2. *Las direcciones IP (Protocolo de Internet) son asignadas y gestionadas por organizaciones específicas a nivel mundial.*
 
-3. *Las direcciones IP públicas son asignadas por organizaciones globales (ICANN y RIR), mientras que las direcciones IP privadas son gestionadas por IANA y se utilizan internamente en redes privadas. Las empresas, proveedores de servicios de Internet (ISP) y otras organizaciones obtienen bloques de direcciones IP públicas a través de los RIR.*
+3. *Las direcciones IP públicas son asignadas por organizaciones globales como **ICANN** (*Internet Corporation for Assigned Names and Numbers* - *Corporación de Internet para la Asignación de Nombres y Números*) y **RIR** (*Regional Internet Registries* - *Registros Regionales de Internet*), mientras que las direcciones IP privadas son gestionadas por **IANA** (*Internet Assigned Numbers Authority* - *Autoridad de Asignación de Números de Internet*) y se utilizan internamente en redes privadas. Las empresas, proveedores de servicios de Internet (**ISP** - *Internet Service Providers*), y otras organizaciones obtienen bloques de direcciones IP públicas a través de los **RIR**.*
 
 ---
 
 # ***The Onion Router (TOR)***
 
+> [!NOTE]
 > **TOR** *(El Enrutador Cebolla, en español), es un sistema de red anónima diseñado para mejorar la privacidad y seguridad en línea al enrutar el tráfico a través de una serie de servidores distribuidos en todo el mundo. El nombre "cebolla" se refiere a la estructura de capas del sistema, ya que el tráfico se cifra y reenruta a través de múltiples nodos, como las capas de una cebolla.*
 
 1. **Nodos Tor**
@@ -469,19 +479,29 @@ cd testssl.sh/
    1. *Tor permite acceder a sitios web con el dominio ".onion" que no son accesibles a través de la **Surface Web** o **web superficial**. Estos sitios a menudo se asocian con la Dark Web.*
 
 ***Nodo***
+
+> [!NOTE]
 > *En el contexto de las redes, un nodo generalmente se refiere a cualquier dispositivo que forma parte de la red y tiene una dirección única en esa red. Puede ser una computadora, un enrutador, un conmutador u otro dispositivo de red. En el caso específico de la red Tor, se utilizan los términos "nodos" para referirse a los puntos de retransmisión a través de los cuales se enruta el tráfico.*
 
 ***Host***
+
+> [!NOTE]
 > *Un host es un dispositivo específico, como una computadora o un servidor, que tiene una dirección única en una red. Un host puede ser un nodo, pero no todos los nodos son necesariamente hosts. Por ejemplo, un enrutador puede ser un nodo de la red, pero no es un host en el sentido de ser una estación de trabajo o servidor final.*
 > **En resumen, todos los hosts son nodos, pero no todos los nodos son hosts. En la red Tor, los nodos se refieren específicamente a los puntos de retransmisión que forman parte de la red anónima, mientras que los hosts pueden referirse a dispositivos finales que están conectados a la red.**
 
 ***Enrutamiento***
+
+> [!NOTE]
 > *El enrutamiento se refiere al proceso de dirigir el tráfico de datos desde el origen hasta el destino a través de una red de dispositivos intermedios llamados routers. Los routers toman decisiones sobre cómo enviar los datos basándose en la dirección de destino de los paquetes de datos. Este proceso se realiza para optimizar la eficiencia y la entrega de los datos.*
 
 ***Cifrado***
+
+> [!NOTE]
 > *El cifrado es el proceso de convertir datos en un formato ilegible (cifrado) utilizando un algoritmo y una clave. La intención es proteger la información de accesos no autorizados. Solo aquellos que posean la clave adecuada podrán descifrar y comprender los datos originales. El cifrado se utiliza para garantizar la confidencialidad de la información.*
 
 ***Encriptación***
+
+> [!NOTE]
 > *La encriptación es un término que se utiliza de manera intercambiable con el cifrado en muchos contextos. Ambos términos se refieren al mismo concepto de convertir información en un formato cifrado. En general, cuando se habla de comunicaciones seguras en la web, se hace referencia al uso de protocolos como SSL/TLS, que proporcionan tanto cifrado como autenticación.*
 
 ---
@@ -492,7 +512,7 @@ cd testssl.sh/
 *luego de eso seguir los siguientes comandos*
 
 ```bash
-cd Descargas/
+cd ~/Descargas/
 ```
 
 ```bash
